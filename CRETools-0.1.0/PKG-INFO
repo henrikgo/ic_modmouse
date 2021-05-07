@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: CRETools
+Version: 0.1.0
+Summary: CRE-related stuff.
+Home-page: http://pypi.python.org/pypi/MyApplication_v010/
+Author: Henrik Gollee
+Author-email: henrik.gollee@glasgow.ac.uk
+License: UNKNOWN
+Description: To build:
+        
+        python setup.py sdist
+        
+        To install:
+        
+        python setup.py install
+        
+        Requirements:
+        numpy, scipy, datetime
+        
+Platform: UNKNOWN
+Requires: numpy
+Requires: scipy
+Requires: datetime
