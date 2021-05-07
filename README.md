@@ -4,6 +4,7 @@
 ##### University of Glasgow. Schools of Engineering and Computing Science.
 ##### University of Bayreuth. Institute for Computer Science.
 
+##### henrik.gollee@glasgow.ac.uk
 ##### alberto.alvarez-martin@glasgow.ac.uk
 
 ---------------------------------------------------------------
